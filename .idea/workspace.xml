@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cc802b4-2f82-4684-a223-0b6e3e6cbfb5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1afWzFVq8mTkSh4499iD9zJBjcu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lab2" />
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.example.hello_hibernate.App" />
+      <module name="hello_hibernate" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hello_hibernate []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean install" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Maven.hello_hibernate []" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cc802b4-2f82-4684-a223-0b6e3e6cbfb5" name="Default Changelist" comment="" />
+      <created>1587127388255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587127388255</updated>
+      <workItem from="1587127392224" duration="4831000" />
+      <workItem from="1587133995854" duration="633000" />
+      <workItem from="1587135817467" duration="45901000" />
+      <workItem from="1587396487405" duration="12686000" />
+      <workItem from="1587545505679" duration="671000" />
+      <workItem from="1587549855720" duration="13107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="83" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587560657400">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="83" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1587560657400" />
+    <state x="743" y="157" width="388" height="563" key="#com.intellij.ide.util.MemberChooser" timestamp="1587492498011">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="743" y="157" width="388" height="563" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1587492498011" />
+    <state x="371" y="145" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587132230158">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="145" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.720@0.0.1280.720" timestamp="1587132230158" />
+    <state x="67" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587231451993">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="67" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.720@0.0.1280.720" timestamp="1587231451993" />
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1587127578361">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1587127578361" />
+    <state width="1237" height="180" key="GridCell.Tab.0.bottom" timestamp="1587572532015">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1587572532015" />
+    <state width="1237" height="180" key="GridCell.Tab.0.center" timestamp="1587572532015">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1587572532015" />
+    <state width="1237" height="180" key="GridCell.Tab.0.left" timestamp="1587572532014">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1587572532014" />
+    <state width="1237" height="180" key="GridCell.Tab.0.right" timestamp="1587572532015">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1587572532015" />
+    <state x="57" y="71" width="1095" height="535" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1587570497052">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="57" y="71" width="1095" height="535" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.720@0.0.1280.720" timestamp="1587570497052" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1587396501191">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1587396501191" />
+    <state x="297" y="161" width="672" height="677" key="run.anything.popup" timestamp="1587252691127">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="297" y="161" width="672" height="677" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1587252691127" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1587551792862">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1587551792862" />
+  </component>
+</project>
