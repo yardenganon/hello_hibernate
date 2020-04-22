@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc802b4-2f82-4684-a223-0b6e3e6cbfb5" name="Default Changelist" comment="" />
+    <list default="true" id="3cc802b4-2f82-4684-a223-0b6e3e6cbfb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hello_hibernate/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hello_hibernate/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hello_hibernate/PrintData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hello_hibernate/PrintData.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +37,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1afWzFVq8mTkSh4499iD9zJBjcu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lab2" />
   </component>
   <component name="RunManager" selected="Application.App">
@@ -78,12 +107,23 @@
       <workItem from="1587135817467" duration="45901000" />
       <workItem from="1587396487405" duration="12686000" />
       <workItem from="1587545505679" duration="671000" />
-      <workItem from="1587549855720" duration="13107000" />
+      <workItem from="1587549855720" duration="15067000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="83" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587560657400">
@@ -106,26 +146,50 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1587127578361" />
-    <state width="1237" height="180" key="GridCell.Tab.0.bottom" timestamp="1587572532015">
+    <state x="507" y="259" key="Github.ShareDialog" timestamp="1587572854025">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="180" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1587572532015" />
-    <state width="1237" height="180" key="GridCell.Tab.0.center" timestamp="1587572532015">
+    <state x="507" y="259" key="Github.ShareDialog/0.0.1280.720@0.0.1280.720" timestamp="1587572854025" />
+    <state x="389" y="59" key="Github.UntrackedFilesDialog" timestamp="1587572864459">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="180" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1587572532015" />
-    <state width="1237" height="180" key="GridCell.Tab.0.left" timestamp="1587572532014">
+    <state x="389" y="59" key="Github.UntrackedFilesDialog/0.0.1280.720@0.0.1280.720" timestamp="1587572864459" />
+    <state width="1237" height="131" key="GridCell.Tab.0.bottom" timestamp="1587574719756">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="180" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1587572532014" />
-    <state width="1237" height="180" key="GridCell.Tab.0.right" timestamp="1587572532015">
+    <state width="1237" height="131" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1587573959889">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="180" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1587572532015" />
-    <state x="57" y="71" width="1095" height="535" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1587570497052">
+    <state width="1237" height="131" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1280.720@0.0.1280.720" timestamp="1587573959889" />
+    <state width="1237" height="131" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1587574719756" />
+    <state width="1237" height="131" key="GridCell.Tab.0.center" timestamp="1587574719756">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="57" y="71" width="1095" height="535" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.720@0.0.1280.720" timestamp="1587570497052" />
+    <state width="1237" height="131" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1587573959888">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.0.center.inPresentationMode/0.0.1280.720@0.0.1280.720" timestamp="1587573959888" />
+    <state width="1237" height="131" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1587574719756" />
+    <state width="1237" height="131" key="GridCell.Tab.0.left" timestamp="1587574719756">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1587573959888">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.0.left.inPresentationMode/0.0.1280.720@0.0.1280.720" timestamp="1587573959888" />
+    <state width="1237" height="131" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1587574719756" />
+    <state width="1237" height="131" key="GridCell.Tab.0.right" timestamp="1587574719756">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1587573959888">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="131" key="GridCell.Tab.0.right.inPresentationMode/0.0.1280.720@0.0.1280.720" timestamp="1587573959888" />
+    <state width="1237" height="131" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1587574719756" />
+    <state x="-179" y="244" width="1095" height="535" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1587573077178">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="-179" y="244" width="1095" height="535" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1280.720@0.0.1280.720" timestamp="1587573077178" />
     <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1587396501191">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -134,9 +198,9 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="297" y="161" width="672" height="677" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1587252691127" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1587551792862">
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1587572846797">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1587551792862" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1587572846797" />
   </component>
 </project>

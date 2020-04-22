@@ -94,42 +94,6 @@ public class App
         TypedQuery<T> allQuery = session.createQuery(allCriteriaQuery);
         return allQuery.getResultList();
     }
-    private static void printAllCarsPictures() throws  Exception {
-        List<CarPicture> pictures = getAll(CarPicture.class);
-        for (CarPicture picture : pictures)
-        {
-            System.out.println(picture.getPicture());
-        }
-    }
-    private static void printAllPersons() throws  Exception {
-        List<Person> persons = getAll(Person.class);
-        for (Person person : persons)
-        {
-            System.out.println(person.getfName() + " " + person.getlName() + " " + person.getEmail());
-        }
-    }
-    private static void printAllGarages() throws Exception {
-        List<Garage> garages = getAll(Garage.class);
-        for (Garage garage : garages)
-        {
-            System.out.println(garage.getAddress());
-        }
-    }
-    private static void printAllCars() throws Exception {
-        List<Car> cars = getAll(Car.class);
-        for (Car car : cars)
-        {
-            System.out.print("Id: ");
-            System.out.print(car.getId());
-            System.out.print(", License plate: ");
-            System.out.print(car.getLicensePlate());
-            System.out.print(", Price: ");
-            System.out.print(car.getPrice());
-            System.out.print(", Year: ");
-            System.out.print(car.getYear());
-            System.out.print('\n');        }
-    }
-
     private static <E> void updateEntities(List<? extends E> obj) throws Exception {
         for (E object : obj)
             session.update(object);
@@ -143,16 +107,16 @@ public class App
             session.beginTransaction();
 
             generateCars();
-            printAllCars();
+            PrintData.printAllCars();
 
             generatePersons();
-            printAllPersons();
+            PrintData.printAllPersons();
 
             generateGarages();
-            printAllGarages();
+            PrintData.printAllGarages();
 
             generateCarsPictures();
-            printAllCarsPictures();
+            PrintData.printAllCarsPictures();
 
             // Bonds entities;
             carsList = getAll(Car.class);
