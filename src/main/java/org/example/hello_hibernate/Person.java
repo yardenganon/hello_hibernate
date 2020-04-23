@@ -20,7 +20,7 @@ public class Person {
     @OneToMany(cascade = CascadeType.ALL,fetch = FetchType.LAZY)
     private List<Car> carsOwnedBy;
 
-    @ManyToMany
+    @ManyToMany(mappedBy = "garageOwners", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private List<Garage> garagesOwnedBy;
 
     public Person() {

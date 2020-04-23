@@ -21,7 +21,7 @@ public class Garage {
             inverseJoinColumns = @JoinColumn(name = "person_id",referencedColumnName = "id"))
     private List<Person> garageOwners;
 
-    @ManyToMany
+    @ManyToMany(mappedBy = "garagesToBeFixedIn",cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private List<Car> carsSupervising;
 
 
