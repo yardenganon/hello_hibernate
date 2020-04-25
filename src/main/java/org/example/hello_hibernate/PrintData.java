@@ -6,9 +6,7 @@ import java.util.List;
 public class PrintData {
 
     public static void printGaragesDetails(List<Garage> garageList) {
-        System.out.println("*************************************************************************");
         System.out.println("*********************************Garages*********************************");
-        System.out.println("*************************************************************************");
 
         for (Garage garage : garageList) {
             System.out.println("----------------------------------------------------------------------");
@@ -21,13 +19,10 @@ public class PrintData {
                 System.out.println(car.getLicensePlate());
             System.out.println("----------------------------------------------------------------------");
         }
-        System.out.println("*************************************************************************");
     }
 
     public static void printCarsDetails(List<Car> carList) {
-        System.out.println("*************************************************************************");
         System.out.println("**********************************Cars***********************************");
-        System.out.println("*************************************************************************");
 
         for (Car car : carList) {
             System.out.println("----------------------------------------------------------------------");
@@ -40,7 +35,6 @@ public class PrintData {
                 System.out.println("NO CARS");
                 System.out.println("----------------------------------------------------------------------");
             }
-            System.out.println("*************************************************************************");
         }
     }
     public static void printAllCarsPictures() throws  Exception {
